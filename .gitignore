@@ -1,0 +1,17 @@
+# Maven target folder
+target/
+
+# NetBeans files
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# IDE / System files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
